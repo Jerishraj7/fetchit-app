@@ -1,0 +1,6 @@
+[submodule "fetchit-frontend"]
+	path = fetchit-frontend
+	url = https://github.com/Jerishraj7/fetchit-frontend.git
+[submodule "fetchit-backend"]
+	path = fetchit-backend
+	url = https://github.com/Jerishraj7/fetchit-backend.git
